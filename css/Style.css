@@ -873,7 +873,7 @@ p.footer-gd a {
 	position: relative;
 }
 .aboutHeader {
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/compu_2.jpg);
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/slider-3.jpg);
 	background-size: cover;
 	background-position: left;
 	height: 50vh;
@@ -2356,7 +2356,9 @@ color: inherit;
 	.showcase .showcase-text {
 		padding: 5rem;
 	}
-	
+	.testimonial-carosel{
+		padding: 10px !important;
+	}
 }
 .hide{
 	display: none;
@@ -2456,7 +2458,7 @@ color: inherit;
 }
 .testimonial-carosel .overview b {
 	text-transform: uppercase;
-	color: #1abc9c;
+	color: #C12F33;
 }
 .testimonial-carosel .carousel-indicators {
 	bottom: -70px;
@@ -2473,9 +2475,16 @@ color: inherit;
 }
 .testimonial-carosel .carousel-indicators li.active {
 	color: #fff;
-    background: #1abc9c;
+    background: #C12F33;
     border: 5px double;    
 }
 #testimonials{
 	margin:50px 0 50px 0px;
+}
+
+@media screen and (max-width: 768px) {
+	 
+	.testimonial-carosel{
+		padding: 10px !important;
+	}
 }
