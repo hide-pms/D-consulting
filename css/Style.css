@@ -1187,9 +1187,7 @@ font-size: 14px;
 	color: white;
  
 }
-.solution p{
-    font-size: 16px;
-}
+ 
  .bs-example {
             margin: 20px;
         }
@@ -2401,6 +2399,7 @@ color: inherit;
 .testimonial-carosel {
 	margin: 0 auto;
 	padding: 0 70px;
+	margin-bottom: 50px;
 }
 .testimonial-carosel .item {
 	color: #999;
@@ -2461,7 +2460,7 @@ color: inherit;
 	color: #C12F33;
 }
 .testimonial-carosel .carousel-indicators {
-	bottom: -70px;
+	bottom: -50px;
 }
 .testimonial-carosel .carousel-indicators li, .testimonial-carosel .carousel-indicators li.active {
 	width: 18px;
