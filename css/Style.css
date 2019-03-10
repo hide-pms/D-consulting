@@ -901,8 +901,37 @@ p.footer-gd a {
 	height: 50vh;
 	position: relative;
 }
-.run-and-maintain-services{
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Services.jpg);
+.mechanicalEnggServices{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/mechanical-engg.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+.system-design{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/system-design.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+.web-app-dev{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/web-app-dev.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+.PC-development{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/PC-development.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+
+.server-operation-services{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/server-operation.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 50vh;
@@ -915,113 +944,15 @@ p.footer-gd a {
 	height: 50vh;
 	position: relative;
 }
-.CM-gallery{
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Gallery.png);
-	background-size: cover;
-	background-position: center;
-	height: 50vh;
-	position: relative;
-}
-.restaurantsSolution {
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/restaurents/restaurant.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 50vh;
-	position: relative;
-}
-.healthcareSolution{
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/healthcare/healthcare.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 50vh;
-	position: relative;
-}
-.AI-Header{
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/AI.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 50vh;
-	position: relative;
-}
-.blockchainServices{
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/modern-app.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 50vh;
-	position: relative;
-}
+
 #ourServices{
     margin-top:20px;
 }
 .careerHeader {
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/career.jpg);
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/career-1.jpg);
 	background-size: cover;
 	background-position: top;
-	height: 90vh;
-	position: relative;
-}
-.UIUXHeader {
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/UIUXHeader.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 60vh;
-	position: relative;
-}
-.ArchitectureHeader {
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/System-Integration.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 60vh;
-	position: relative;
-}
-.AnalyticsHeader{
-	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Analytics.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 60vh;
-	position: relative;
-}
-.CounsultingHeader{
-		background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/consulting.jpg);
-	background-size: cover;
-	background-position: top;
-	height: 60vh;
-	position: relative;
-}
-.SystemHeader{
-		background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/System.jpg);
-	background-size: cover;
-	background-position: left;
-	height: 90vh;
-	position: relative;
-}
-.AppDevHeader{
-		background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/app-development.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 60vh;
-	position: relative;
-}
-.scrummethodolgy{
-		background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(../images/scrum.jpg);
-	 width: 100%;
-	background-size: cover;
-	background-position: center;
-	height: 60vh;
-	position: relative;
-}
-.StrategygHeader{
-		background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/chess.jpg);
-	background-size: cover;
-	background-position: center;
-	height: 60vh;
-	position: relative;
-}
-.SupportHeader{
-		background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/support.jpg);
-	background-size: cover;
-	background-position: top;
-	height: 60vh;
+	height: 50vh;
 	position: relative;
 }
 .TestingHeader{
@@ -1038,6 +969,13 @@ p.footer-gd a {
 	height: 50vh;
 	position: relative;
 }
+.healthcareSolution{
+	background:	linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/healthcare/healthcare.jpg);
+	background-size: cover;
+	background-position: center;	
+	height:	50vh;
+	position:relative;
+	} 
 .module .container {
 	display: flex;
 	justify-content: center;
