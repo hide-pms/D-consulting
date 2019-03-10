@@ -1000,7 +1000,7 @@ p.footer-gd a {
 	width: 40px;
 	height: 40px;
 	position: fixed;
-	bottom: 90px;
+	bottom: 25px;
 	right: 10px;
 	z-index: 99999;
 	display: none;
