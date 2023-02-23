@@ -286,19 +286,19 @@ body {
 /********************************/
 
 #first-slider .slide1 {
-	background-image: url(../images/slider-3.jpg);
+	background-image: url(../images/engineering.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 #first-slider .slide2 {
-	background-image: url(../images/slider-1.jpg);
+	background-image: url(../images/Free-consult.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 #first-slider .slide3 {
-	background-image: url(../images/slider-2.jpg);
+	background-image: url(../images/development1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
@@ -2418,12 +2418,25 @@ color: inherit;
 #testimonials{
 	margin:50px 0 50px 0px;
 }
+.d-small .media-object {
+
+	width: 125px;
+}
 
 @media screen and (max-width: 768px) {
 	 
 	.testimonial-carosel{
 		padding: 10px !important;
 	}
+	.d-small .media-object {
+
+		width: 100px;
+		margin: 0px auto;
+	}
+	.d-small .pull-left {
+		float: inherit !important;
+	}
+
 }
 .mb-3{
 	margin-bottom:30px;
