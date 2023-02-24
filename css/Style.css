@@ -929,7 +929,41 @@ p.footer-gd a {
 	height: 50vh;
 	position: relative;
 }
-
+.BA-development{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Business-Analysis.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+.DA-development{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Database-Administration.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+.MA-development{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Mobile-Application-Development.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+.UI-UX-development{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/UI-UX.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+.web-app-development{
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Web-Applications-and-Website-Development.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
 .server-operation-services{
 	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/server-operation.jpg);
 	background-size: cover;
