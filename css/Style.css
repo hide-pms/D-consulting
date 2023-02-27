@@ -1010,6 +1010,13 @@ p.footer-gd a {
 	height:	50vh;
 	position:relative;
 	} 
+	.Industry-Solution{
+		background:	linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Industry-we.png);
+		background-size: cover;
+		background-position: center;	
+		height:	50vh;
+		position:relative;
+		} 
 .module .container {
 	display: flex;
 	justify-content: center;
